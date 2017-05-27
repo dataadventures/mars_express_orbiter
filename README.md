@@ -11,8 +11,8 @@ Repository content:
 
 # Datasets
 
-* Main dataset is located at: ![Download](link1)
-* FORNAX, augmented dataset (more data) is located at: ![Download](link2)
+* Main dataset is located at: ![Download](https://www.kaggle.com/europeanspaceagency/mars-express-power-hackathon)
+* FORNAX, augmented dataset (more data) is located at: ![Download](https://www.kaggle.com/fornaxai/dataadventures)
 
 ## Where to unpack data?
 
