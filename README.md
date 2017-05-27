@@ -46,4 +46,25 @@ Here are the steps:
 
 With this command you can `import hackathon` module from your python console.
  
+ 
+# Evaluation
+
+## Modeling path
+Each submission file will be evaluated against the fourth Martian year's actual average electric current data using the Root Mean Square Error (RMSE) measure.
+
+![img](content/rmse.png)
+
+* ϵ: root mean square error
+* cij: predicted value for the ith timestep in the fourth Martian year of the jth parameter
+* rij: reference value for the ith timestep in the fourth Martian year of the jth parameter
+* N: the total number of evaluated measurements i∈[1,N] with N<=16488
+* M : the number of parameters j∈[1,M] with M=33
+
+## DataViz path
+
+There are two paths:
+
+* Orbit and Events - place the events in the timeline in context of the orbit
+* Mission Plans Visualisation - How to represent a set of operations commands to different subsystems, with time evolution ? 
+
 # Happy feature engineering!
